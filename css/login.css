@@ -1,0 +1,16 @@
+*{padding: 0; margin: 0;}
+a{text-decoration: none;color:#0563c3;}
+body { background: #f5f5f5;}
+body{ color: #3e3e3e; font-family: "微软雅黑"; z-index: 1;}
+.box{  width: 600px; position: relative; height: 670px; border: 1px #ccc solid; margin: 0 auto; margin-top: 70px;margin-bottom:50px;background: #fff;}
+.logo_box {height: 94px; width: 100%;background: url(../img/passport_bg_161124.png) no-repeat; /*border-bottom: 12px solid #f5f5f5;*/}
+#phone{ width:327px; padding-left: 20px; height:49px; position: absolute; top:130px; left: 75px; border: 1px #ccc solid;}
+#sp1{ display: block;  background: white;position: absolute; left: 95px; top: 145px; font-size: 14px; color: #aaa;}
+#pw{ width:327px ; padding-left: 20px; height:49px ; position: absolute; border: 1px #ccc solid; left: 75px; top:215px ;}
+#sp2{display: block; position: absolute; left: 95px; top: 230px; color: #aaa; font-size: 14px; background: white;}
+#sp3{ position: absolute; left: 75px; top:300px; font-size: 14px;}
+#sp4{ position: absolute; left: 370px; top: 300px; font-size: 14px; }
+#btn{ width:360px; height:50px ; cursor: pointer; font-size: 20px; text-align: center; line-height:50px ; position: absolute; left:75px ; top:360px ; color: white; background:#eb5a41 ;}
+#zc{ width:360px; height:48px ; cursor: pointer; font-size: 20px; text-align: center; line-height:50px ; position: absolute; left:75px ; top:440px ; color:#f57518;border: 1px #F57518 solid;}
+.bot{ text-align: center; width: 100%; display: block; font-size: 10px; margin-top: 40px; margin-bottom: 30px;}
+#erro{ width:550px; height:150px; border: 1px #ccc solid;position: fixed; display: none; left: 450px; top: 300px; line-height: 150px; background: white; text-align: center;}

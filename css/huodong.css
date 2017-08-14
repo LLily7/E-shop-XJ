@@ -1,0 +1,26 @@
+
+.menu{
+	height: 0;
+	overflow: hidden;
+}
+
+
+h2 {height:119px;width:1200px;/*margin:0 auto;*/background:url(../img/huodong/topic_tit_bg0120161124.png) rgba(245,245,245,1) no-repeat left center;position:relative}
+h2 span {display:block;width:198px;height:119px;line-height: 119px;text-align: center;background: rgba(245,245,245,1);position:absolute;left:504px;top:0}
+.huodong-banner {width:1200px;overflow:hidden;/*margin:0 auto;*/height:390px}
+#huodong-shangpin1 {width:1200px;padding-top:30px;/*margin:0 auto;*/background:rgba(245,245,245,1);display: flex;justify-content: space-between;overflow: hidden;}
+#huodong-shangpin1 dl dd p img{float: left;}
+#huodong-shangpin1 dl dd a:nth-of-type(1) {text-decoration:none;color:#787878;float:left;}
+#huodong-shangpin1 dl dd a:nth-of-type(1):hover {text-decoration:underline;cursor:pointer;}
+#huodong-shangpin1 dl dd {display:flex;flex-direction: column;justify-content:space-around;}
+
+#huodong-shangpin2 {width:1200px;padding-top:30px;/*margin:0 auto;*/background:rgba(245,245,245,1);overflow:hidden}
+#huodong-shangpin2 dl dd a:nth-of-type(1){color: #787878;}
+#huodong-shangpin2 dl dd a:nth-of-type(1):hover {text-decoration:underline;cursor:pointer;}
+#huodong-shangpin2 dl {float:left;margin-right:20px;margin-bottom:15px}
+#huodong-shangpin2 dl:nth-child(4n) {margin-right:0}
+#huodong-shangpin2 dl dd {display:flex;flex-direction: column;justify-content:space-around;}
+#shangpin-midlle {width:1200px;margin:0 auto;background:rgba(245,245,245,1);overflow:hidden;padding-top:58px}
+#shangpin-midlle p {float:left;margin-right: 50px;margin-bottom:25px}
+#shangpin-midlle p:nth-child(2n) {margin-right:0}
+#shangpin-midlle p img {width:575px;height:315px;float: left;}

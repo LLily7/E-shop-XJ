@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" href="css/layout.css" />
+		<link rel="stylesheet" href="css/cart.css" />
+		
+	</head>
+	<body>
+		<div class="header"></div>
+		
+		<div  class="main  layout">
+			
+			
+		  <div  id="box" style="margin-left: 50px;">
+		  	<img src="img/cart_empty_icon.png" />
+		  	<p>
+		  		<span>您的购物车空空如也</span>
+		  		<a href="index.html"> 去逛逛 </a>
+		  	</p>
+		  </div>
+		
+		
+		
+		  <div class="main_cart" id="main_cart">
+		  	
+            <table id="table" border="1px #efefef solid" cellspacing="0" cellpadding="0">
+                
+                    <tr style="height: 48px; background-color: white; text-align: center; font-weight: bold;">
+                        <td colspan="3">商品</td>
+                        <td style="width: 130px;">销售价</td>
+                        <td style="width: 130px;">数量</td>
+                        <td style="width: 130px;">小计</td>
+                        <td style="width: 110px;">操作</td>   
+                    </tr>
+                    <tr style="height: 63px;">
+                    	<td> <input type="checkbox" id="allCheck" /></td>
+                    	<td colspan="5"> 西集美国一仓发货 </td>
+                    	<td> <a href="list.html">去仓库凑单 &gt;</a> </td>
+                    </tr>
+
+                <tbody id="tbody" style=" background-color: white;">
+                 
+                 
+                </tbody>
+            </table>
+           
+           <p>商品金额：￥<span id="totalPrice">0</span> <button onclick="#">去结算</button></p>
+           
+		  </div>
+	    </div>	
+		
+		
+		<div class="footer"></div>
+	</body>
+	<script src="js/jquery-1.11.3.js"></script>
+	<script type="text/javascript" src="js/layout.js" ></script>
+	<script type="text/javascript" src="js/cookie1.js"></script>
+	<script src="js/server.js" type="text/javascript" charset="utf-8"></script>
+	<script src="js/cart.js"></script>
+	
+</html>

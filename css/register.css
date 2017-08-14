@@ -1,0 +1,88 @@
+*{padding: 0; margin: 0;}
+body {
+	background: #f5f5f5;
+}
+li{ list-style: none;}
+a{text-decoration: none; color: #0563c3;}
+body{color: #3E3E3E; font-family: "微软雅黑";}
+.box{  
+	width: 600px;
+    position: relative;
+    height: 693px;
+    border: 1px #ccc solid;
+    margin: 0 auto;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    background: #fff;
+  }
+  
+.img1{ 
+	position: absolute; 
+	height: 94px; 
+	/*border-bottom: 12px solid #f5f5f5; */
+	width: 100%; 
+	left: 0; 
+	top: 0; 
+	}
+	
+.country{ 
+	width: 332px;
+	font-family:"Helvetica Neue",
+	Helvetica,Arial,"Hiragino Sans GB"; 
+	height: 48px; 
+	border: 1px #ccc solid; 
+	position: absolute; 
+	left: 75px; 
+	top: 160px;
+	}
+	
+.tex{ 
+	position: absolute; 
+	width: 102px; 
+	height: 20px; 
+	text-align: center; 
+	background: white;
+	left: 14px; 
+	top: -10px;
+	}
+	
+#img1{ 
+	position: absolute; 
+	right: 0; 
+	top: 3px; 
+	cursor: pointer;
+	}
+			
+#ul1{ width: 332px;z-index: 1;font-family:"Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB"; height: 0px; position: absolute; left: 75px; top:208px;  overflow-x: hidden;}
+#ul1 li{ width: 332px; background: white; height:47px; border-top: 1px #ccc solid; line-height: 47px; color: #3e3e3e; }
+#ul1 li img{ float: left; width:30px;height:20px;margin-left: 10px; margin-right: 15px; margin-top: 10px;}
+#ul1 li:hover{ background: #f4f4f4; cursor: pointer;}
+.country span{ display: block; margin-top: 15px;}
+.country span img{ margin-left: 10px; margin-right: 15px;}
+
+
+#sp >img{
+	float: left;
+	width: 30px;
+	height: 20px;
+}
+
+#mail{ position: absolute; width:332px ; padding-left: 15px;  height:47px; left: 75px; top:248px; border: 1px #ccc solid;}
+#sp2{position: absolute; left: 95px; background: white; font-size: 14px; top: 260px; display: block; color: #aaa;}
+.select{ border: 1px red solid; border-top: 1px #ccc solid;}
+#sp3{ position: absolute; left: 75px;  top: 300px; font-size: 14px; display: none;}
+#yzm{ position: absolute; left: 75px; top:323px;padding-left: 20px; border: 1px #ccc solid;width: 148px; height: 47px; }
+#sp4{ position: absolute; left: 95px; top: 340px; color: #aaa; font-size: 14px; background: white; }
+#SJimg{ position: absolute; cursor: pointer; left: 320px; top: 323px; width:120px; height: 50px; line-height: 50px;}
+#SJimg span{ color: #0563c3;}
+#sp5{position: absolute; left: 75px; top: 380px; font-size: 14px; display: none;}
+#duanxin{ width:150px ; height:49px ; padding-left: 20px; border: 1px #ccc solid; position: absolute; top: 402px; left: 75px;}
+#sp6{ display: block; background: white; font-size: 14px; position: absolute; left: 95px; top: 418px; color: #aaa;}
+.DX{ width:143px;  font-size: 14px;color: #f47518; height: 49px; line-height: 49px; text-align: center;cursor: pointer; position: absolute; left:255px; border: 1px #f47518 solid; top: 402px;}
+#pw{ position: absolute; left: 75px; top:481px; border: 1px #ccc solid; width:327px ; height:48px; padding-left: 20px;}
+#sp7{ position: absolute; left: 95px; top:495px; background: white; font-size: 14px; display: block; color: #aaa;} 
+#sp8{position: absolute; left:75px; top: 560px; font-size: 14px;}
+#btn{ width:162px; height:49px; cursor: pointer; font-size: 20px; position: absolute; left:75px; top:600px; color: white; line-height:49px ; text-align: center;background: #ff463c;}
+.sp{ position: absolute; left:250px; top:614px; font-size: 14px;}
+
+#sp9{ position: absolute; top: 531px; display: none; font-size: 14px; left: 75px;}

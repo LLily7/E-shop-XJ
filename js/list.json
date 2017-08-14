@@ -1,0 +1,81 @@
+{
+  "list1":{
+      "id":["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18"],
+      "url":["./img/hot/1.jpg","./img/hot/2.jpg","./img/hot/3.jpg",
+		       "./img/hot/4.jpg","./img/hot/5.jpg","./img/hot/6.jpg",
+		       "./img/hot/7.jpg","./img/hot/8.jpg","./img/hot/9.jpg",
+		       "./img/hot/10.png","./img/hot/11.jpg","./img/hot/12.jpg",
+               "./img/hot/13.jpg","./img/hot/14.jpg","./img/hot/15.jpg",
+		       "./img/hot/16.jpg","./img/hot/17.jpg","./img/hot/18.jpg"],
+      "addr":["./img/guoqi/6.png","./img/guoqi/6.png","./img/guoqi/4.png",
+		        "./img/guoqi/1.png","./img/guoqi/4.png","./img/guoqi/1.png",
+		        "./img/guoqi/9.jpg","./img/guoqi/4.png","./img/guoqi/6.png",
+		        "./img/guoqi/4.png","./img/guoqi/6.png","./img/guoqi/6.png",
+		        "./img/guoqi/3.png","./img/guoqi/11.png","./img/guoqi/6.png",
+		        "./img/guoqi/5.png","./img/guoqi/11.png","./img/guoqi/6.png"],
+      "text":["【糖果色洁面仪】FOREO LUNA 露娜 Mini 2 ","Tumi 塔米/途明 ALPHA 2 系列 T-Pass 商务双肩包/电脑包 96578D2",
+		        "【国内现货包邮】日本Dr.Ci:Labo/城野医生毛孔收","【17新款 配置升级 价格降低】Apple 苹果 ",
+		        "【包邮套装】Santen 参天 眼药水12ml + ","【爱你 比心 还带振翅效应】AFFINER 阿菲娜 925",
+		        "【包邮】Nanataya 娜娜塔雅 高低颗粒按摩颈椎枕/","【国内现货包邮】日本本土版 Muhi/池田模范堂成人",
+		        "Nike 耐克 DOWNSHIFTER 6 男鞋运动",
+		        "【3瓶券后包邮价549元】17最新版 Shiseido 资生","【轻便能装，时尚帅气】COACH 蔻驰 男款单肩",
+		        "Nars 纳斯 丝绒哑光唇膏笔套装豆沙色/偏冷调正红","【香港直邮 税费补贴】Sennheiser 森海塞尔 重低 ",
+		        "【健康养颜】DM Das gesunde Plus 补维生素泡腾","【男人腰上的一抹亮色】COACH 蔻驰 时尚男款",
+		        "【随时随地触碰美味】KeepCup 随身玻璃咖啡杯/","【守护小天使】DM 天然植物宝宝防蚊驱蚊喷雾 ",
+		        "【300多的阿迪小白鞋】阿迪达斯 adidas neo 女"],
+      "text1":["现价￥699（需用券）","现价￥3,179（需用券） ","团购价86元","现价￥18,188（需用券）","现价￥339（需用券） "," "," "," ","现价￥291.07（需用券）",
+              "现价￥549（需用券）","","","现价￥1,399（需用券）",""," "," ","团购价69元 ","团购价369元"],
+      "price":["999.00","3279.00","94.00","18888.00","369.00","198.00",
+		         "198.42","48.00","311.07",
+		       "999.00","3279.00","94.00","18888.00","369.00","198.00",
+		         "198.42","48.00","381.04"]
+  
+  
+  },
+  "list2":{
+     "id":["19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36"],
+     "url":["./img/hot/19.jpg","./img/hot/20.jpg","./img/hot/21.jpg",
+               "./img/hot/22.jpg","./img/hot/23.jpg","./img/hot/24.jpg",
+		       "./img/hot/25.jpg","./img/hot/26.jpg","./img/hot/27.jpg",
+		       "./img/hot/28.jpg","./img/hot/29.jpg","./img/hot/30.jpg",
+               "./img/hot/31.jpg","./img/hot/32.jpg","./img/hot/33.jpg",
+		       "./img/hot/34.jpg","./img/hot/35.jpg","./img/hot/36.jpg"],
+     "addr":["./img/guoqi/15.jpg","./img/guoqi/6.png","./img/guoqi/6.png",
+		        "./img/guoqi/6.png","./img/guoqi/5.png","./img/guoqi/6.png",
+		        "./img/guoqi/4.png","./img/guoqi/4.png","./img/guoqi/4.png",
+		        "./img/guoqi/4.png","./img/guoqi/6.png","./img/guoqi/4.png",
+		        "./img/guoqi/4.png","./img/guoqi/4.png","./img/guoqi/6.png",
+		        "./img/guoqi/4.png","./img/guoqi/4.png","./img/guoqi/6.png"],
+	"text":["【糖果色洁面仪】FOREO LUNA 露娜 Mini 2 ","Tumi 塔米/途明 ALPHA 2 系列 T-Pass 商务双肩包/",
+	        "【国内现货包邮】日本Dr.Ci:Labo/城野医生毛孔收","【17新款 配置升级 价格降低】Apple 苹果 ",
+	        "【包邮套装】Santen 参天 眼药水12ml + ","【爱你 比心 还带振翅效应】AFFINER 阿菲娜 925",
+	        "【包邮】Nanataya 娜娜塔雅 高低颗粒按摩颈椎枕/","【国内现货包邮】日本本土版 Muhi/池田模范堂成人",
+	        "Nike 耐克 DOWNSHIFTER 6 男鞋运动",
+	        "【糖果色洁面仪】FOREO LUNA 露娜 Mini 2 ","Tumi 塔米/途明 ALPHA 2 系列 T-Pass 商务双肩包/",
+	        "【国内现货包邮】日本Dr.Ci:Labo/城野医生毛孔收","【17新款 配置升级 价格降低】Apple 苹果 ",
+	        "【包邮套装】Santen 参天 眼药水12ml + ","【爱你 比心 还带振翅效应】AFFINER 阿菲娜 925",
+	        "【包邮】Nanataya 娜娜塔雅 高低颗粒按摩颈椎枕/","【国内现货包邮】日本本土版 Muhi/池田模范堂成人",
+	        "Nike 耐克 DOWNSHIFTER 6 男鞋运动"],
+	"text1":["现价￥699（需用券）","现价￥3,179（需用券） ","团购价86元","现价￥18,188（需用券）","现价￥339（需用券） "," "," "," ","现价￥291.07（需用券）",
+              "现价￥549（需用券）","","","现价￥1,399（需用券）",""," "," ","团购价69元 ","团购价369元"],        
+	"price":["999.00","3279.00","94.00","18888.00","369.00","198.00",
+	         "198.42","48.00","311.07",
+	         "999.00","3279.00","94.00","18888.00","369.00","198.00",
+		     "198.42","48.00","311.07"]		       
+  
+  
+  
+  
+  }
+
+
+
+
+
+
+
+
+
+
+
+}

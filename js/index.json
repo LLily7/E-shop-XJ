@@ -1,0 +1,240 @@
+{"hot_products":
+    {"hot_products1":
+       {"url":["./img/hot/1.jpg","./img/hot/2.jpg","./img/hot/3.jpg",
+		       "./img/hot/4.jpg","./img/hot/5.jpg","./img/hot/6.jpg",
+		       "./img/hot/7.jpg","./img/hot/8.jpg","./img/hot/9.jpg"],
+		"addr":["./img/guoqi/6.png","./img/guoqi/6.png","./img/guoqi/4.png",
+		        "./img/guoqi/1.png","./img/guoqi/4.png","./img/guoqi/1.png",
+		        "./img/guoqi/9.jpg","./img/guoqi/4.png","./img/guoqi/6.png"],
+		"text":["【糖果色洁面仪】FOREO LUNA 露娜 Mini 2 ","Tumi塔米/途明 ALPHA  2系列 T-Pass 商务双肩包/",
+		        "【国内现货包邮】日本Dr.Ci:Labo/城野医生毛孔收","【17新款 配置升级 价格降低】Apple 苹果 ",
+		        "【包邮套装】Santen 参天 眼药水12ml + ","【爱你 比心 还带振翅效应】AFFINER 阿菲娜 925",
+		        "【包邮】Nanataya 娜娜塔雅 高低颗粒按摩颈椎枕/","【国内现货包邮】日本本土版 Muhi/池田模范堂成人",
+		        "Nike 耐克 DOWNSHIFTER 6 男鞋运动"],
+		"text1":["现价￥699（需用券）","现价￥3,179（需用券） ","团购价86元","现价￥18,188（需用券）","现价￥339（需用券） "," "," "," ","现价￥291.07（需用券）"],        
+		"price":["￥999.00","￥3,279.00","￥94.00","￥18,888.00","￥369.00","￥198.00",
+		         "￥198.42","￥48.00","￥311.07"]
+       },
+       
+     "hot_products2":
+       {"url":["./img/hot/10.png","./img/hot/11.jpg","./img/hot/12.jpg",
+               "./img/hot/13.jpg","./img/hot/14.jpg","./img/hot/15.jpg",
+		       "./img/hot/16.jpg","./img/hot/17.jpg","./img/hot/18.jpg"],  
+		"addr":["./img/guoqi/4.png","./img/guoqi/6.png","./img/guoqi/6.png",
+		        "./img/guoqi/3.png","./img/guoqi/11.png","./img/guoqi/6.png",
+		        "./img/guoqi/5.png","./img/guoqi/11.png","./img/guoqi/6.png"],
+		"text":["【3瓶券后包邮价549元】17最新版 Shiseido 资生","【轻便能装，时尚帅气】COACH 蔻驰 男款单肩",
+		        "Nars 纳斯 丝绒哑光唇膏笔套装豆沙色/偏冷调正红","【香港直邮 税费补贴】Sennheiser 森海塞尔 重低 ",
+		        "【健康养颜】DM Das gesunde Plus 补维生素泡腾","【男人腰上的一抹亮色】COACH 蔻驰 时尚男款",
+		        "【随时随地触碰美味】KeepCup 随身玻璃咖啡杯/","【守护小天使】DM 天然植物宝宝防蚊驱蚊喷雾 ",
+		        "【300多的阿迪小白鞋】阿迪达斯 adidas neo 女"],
+		"text1":["现价￥549（需用券）","","","现价￥1,399（需用券）",""," "," ","团购价69元 ","团购价369元"],        
+		"price":["￥999.00","￥3,279.00","￥94.00","￥18,888.00","￥369.00","￥198.00",
+		         "￥198.42","￥48.00","￥381.04"]
+       },
+       
+       "hot_products3":
+       {"url":["./img/hot/19.jpg","./img/hot/20.jpg","./img/hot/21.jpg",
+               "./img/hot/22.jpg","./img/hot/23.jpg","./img/hot/24.jpg",
+		       "./img/hot/25.jpg","./img/hot/26.jpg","./img/hot/27.jpg"],  
+		"addr":["./img/guoqi/15.jpg","./img/guoqi/6.png","./img/guoqi/6.png",
+		        "./img/guoqi/6.png","./img/guoqi/5.png","./img/guoqi/6.png",
+		        "./img/guoqi/4.png","./img/guoqi/4.png","./img/guoqi/4.png"],
+		"text":["【糖果色洁面仪】FOREO LUNA 露娜 Mini 2 ","Tumi 塔米/途明 ALPHA 2 系列 T-Pass 商务双肩包/",
+		        "【国内现货包邮】日本Dr.Ci:Labo/城野医生毛孔收","【17新款 配置升级 价格降低】Apple 苹果 ",
+		        "【包邮套装】Santen 参天 眼药水12ml + ","【爱你 比心 还带振翅效应】AFFINER 阿菲娜 925",
+		        "【包邮】Nanataya 娜娜塔雅 高低颗粒按摩颈椎枕/","【国内现货包邮】日本本土版 Muhi/池田模范堂成人",
+		        "Nike 耐克 DOWNSHIFTER 6 男鞋运动"],
+		"price":["￥999.00","￥3,279.00","￥94.00","￥18,888.00","￥369.00","￥198.00",
+		         "￥198.42","￥48.00","￥311.07"]
+       },
+       
+       "hot_products4":
+       {"url":["./img/hot/28.jpg","./img/hot/29.jpg","./img/hot/30.jpg",
+               "./img/hot/31.jpg","./img/hot/32.jpg","./img/hot/33.jpg",
+		       "./img/hot/34.jpg","./img/hot/35.jpg","./img/hot/36.jpg"],  
+		"addr":["./img/guoqi/4.png","./img/guoqi/6.png","./img/guoqi/4.png",
+		        "./img/guoqi/4.png","./img/guoqi/4.png","./img/guoqi/6.png",
+		        "./img/guoqi/4.png","./img/guoqi/4.png","./img/guoqi/6.png"],
+		"text":["【糖果色洁面仪】FOREO LUNA 露娜 Mini 2 ","Tumi 塔米/途明 ALPHA 2 系列 T-Pass 商务双肩包/",
+		        "【国内现货包邮】日本Dr.Ci:Labo/城野医生毛孔收","【17新款 配置升级 价格降低】Apple 苹果 ",
+		        "【包邮套装】Santen 参天 眼药水12ml + ","【爱你 比心 还带振翅效应】AFFINER 阿菲娜 925",
+		        "【包邮】Nanataya 娜娜塔雅 高低颗粒按摩颈椎枕/","【国内现货包邮】日本本土版 Muhi/池田模范堂成人",
+		        "Nike 耐克 DOWNSHIFTER 6 男鞋运动"],
+		"price":["￥999.00","￥3,279.00","￥94.00","￥18,888.00","￥369.00","￥198.00",
+		         "￥198.42","￥48.00","￥311.07"]
+       },
+       
+       "hot_products5":
+       {"url":["./img/hot/37.jpg","./img/hot/38.jpg","./img/hot/39.png",
+               "./img/hot/40.jpg","./img/hot/41.jpg","./img/hot/42.jpg",
+		       "./img/hot/43.jpg","./img/hot/44.jpg","./img/hot/45.jpg"],  
+		"addr":["./img/guoqi/4.png","./img/guoqi/6.png","./img/guoqi/4.png",
+		        "./img/guoqi/1.png","./img/guoqi/5.png","./img/guoqi/8.png",
+		        "./img/guoqi/4.png","./img/guoqi/4.png","./img/guoqi/6.png"],
+		"text":["【糖果色洁面仪】FOREO LUNA 露娜 Mini 2 ","Tumi 塔米/途明 ALPHA 2 系列 T-Pass 商务双肩包/",
+		        "【国内现货包邮】日本Dr.Ci:Labo/城野医生毛孔收","【17新款 配置升级 价格降低】Apple 苹果 ",
+		        "【包邮套装】Santen 参天 眼药水12ml + ","【爱你 比心 还带振翅效应】AFFINER 阿菲娜 925",
+		        "【包邮】Nanataya 娜娜塔雅 高低颗粒按摩颈椎枕/","【国内现货包邮】日本本土版 Muhi/池田模范堂成人",
+		        "Nike 耐克 DOWNSHIFTER 6 男鞋运动"],
+		"price":["￥999.00","￥3,279.00","￥94.00","￥18,888.00","￥369.00","￥198.00",
+		         "￥198.42","￥48.00","￥311.07"]
+       }
+       
+    
+    },
+
+
+    "handpick":{
+        "handpick1":{
+            "url":["./img/handpick/1.jpg","./img/handpick/2.jpg","./img/handpick/3.jpg",
+                "./img/handpick/4.png","./img/handpick/5.jpg","./img/handpick/6.jpg",
+                "./img/handpick/7.jpg","./img/handpick/8.jpg"],
+            "text":["DDP 全球购海外直邮","【让维秘受冷落的无感无痕内衣】Felina 蕾丝无钢圈Y型肩带背心内衣 2件装 多规格可选",
+                    "【夏天到了，让CK保卫你最后一道防线】Calvin Klein/CK 凯文克莱 男士纯棉三角内裤 3条装 多色可选",
+                    "【FUN in the SUN 海边必备】Speedo 速比涛 轻便透气休闲健身 两栖 自动空水速干 休闲运动鞋",
+                    "潮玩堂","【肌肤的清洁护理，是女人的大事】Clinique 倩碧 声波洁面仪套装 赠送专用洁面乳、2号水、3号水、黄油保湿乳液",
+                    "【肌肤的清洁护理，是女人的大事】Clinique 倩碧 声波洁面仪套装 赠送专用洁面乳、2号水、3号水、黄油保湿乳液",
+                    "【炎热夏天的时尚清凉】EVER AUSTRALIA UGG 清凉女士夏天fantasy系带休闲女士小白鞋 11691"],
+            "price":[" ","￥131.63","￥131.63","￥187.06"," ","￥444.99","￥824.43","￥397.11"]            
+        
+        
+        },
+        "handpick2":{
+            "url":["./img/handpick/9.jpg","./img/handpick/10.jpg","./img/handpick/11.jpg",
+                "./img/handpick/12.jpg","./img/handpick/1.jpg","./img/handpick/13.jpg",
+                "./img/handpick/14.jpg","./img/handpick/15.png"],
+            "text":["DDP 全球购海外直邮","【让维秘受冷落的无感无痕内衣】Felina 蕾丝无钢圈Y型肩带背心内衣 2件装 多规格可选",
+                    "【夏天到了，让CK保卫你最后一道防线】Calvin Klein/CK 凯文克莱 男士纯棉三角内裤 3条装 多色可选",
+                    "【FUN in the SUN 海边必备】Speedo 速比涛 轻便透气休闲健身 两栖 自动空水速干 休闲运动鞋",
+                    "潮玩堂","【肌肤的清洁护理，是女人的大事】Clinique 倩碧 声波洁面仪套装 赠送专用洁面乳、2号水、3号水、黄油保湿乳液",
+                    "【肌肤的清洁护理，是女人的大事】Clinique 倩碧 声波洁面仪套装 赠送专用洁面乳、2号水、3号水、黄油保湿乳液",
+                    "【炎热夏天的时尚清凉】EVER AUSTRALIA UGG 清凉女士夏天fantasy系带休闲女士小白鞋 11691"],
+            "price":[" ","￥131.63","￥131.63","￥187.06"," ","￥444.99","￥824.43","￥397.11"]    
+                
+        },  
+        "handpick3":{
+            "url":["./img/handpick/1.jpg","./img/handpick/16.jpg","./img/handpick/17.jpg",
+                "./img/handpick/18.jpg","./img/handpick/19.jpg","./img/handpick/20.jpg",
+                "./img/handpick/21.jpg","./img/handpick/22.jpg"],
+            "text":["DDP 全球购海外直邮","【让维秘受冷落的无感无痕内衣】Felina 蕾丝无钢圈Y型肩带背心内衣 2件装 多规格可选",
+                    "【夏天到了，让CK保卫你最后一道防线】Calvin Klein/CK 凯文克莱 男士纯棉三角内裤 3条装 多色可选",
+                    "【FUN in the SUN 海边必备】Speedo 速比涛 轻便透气休闲健身 两栖 自动空水速干 休闲运动鞋",
+                    "潮玩堂","【肌肤的清洁护理，是女人的大事】Clinique 倩碧 声波洁面仪套装 赠送专用洁面乳、2号水、3号水、黄油保湿乳液",
+                    "【肌肤的清洁护理，是女人的大事】Clinique 倩碧 声波洁面仪套装 赠送专用洁面乳、2号水、3号水、黄油保湿乳液",
+                    "【炎热夏天的时尚清凉】EVER AUSTRALIA UGG 清凉女士夏天fantasy系带休闲女士小白鞋 11691"],
+            "price":[" ","￥131.63","￥131.63","￥187.06"," ","￥444.99","￥824.43","￥397.11"]           
+    
+        }
+
+    },
+    "new":{
+          "new1":{
+             "url":["./img/new1/1.jpg","./img/new1/2.jpg","./img/new1/3.jpg",
+                 "./img/new1/4.jpg","./img/new1/5.jpg"],
+             "addr":["./img/guoqi/15.jpg","./img/guoqi/4.png","./img/guoqi/4.png",
+                 "./img/guoqi/6.png","./img/guoqi/5.png"],
+             "text":["【打破时间格局】Pierre Lannier 连尼亚 复古",
+                   "【国内现货 包邮】日本Kiss Me睫毛膏 花漾美姬防",
+                   "【压个瓶口都可以挤出玫瑰花】Kanebo 嘉娜宝 ",
+                   "【型男必备】Calvin Klein/CK 卡文克莱 时尚男士",
+                   "【就像蝴蝶一样美好可爱】EVER AUSTRALI "],
+             "text1":["现价￥1,399（需用券）"," "," ","现价￥187.2（需用券）"," "],      
+             "price":["￥1,599.00","￥68.00","￥116.99","￥312.00","￥394.90"]
+
+          },
+          "new2":{
+             "url":["./img/new1/6.jpg","./img/new1/7.png","./img/new1/8.jpg",
+                 "./img/new1/9.jpg","./img/new1/10.jpg"],
+             "addr":["./img/guoqi/2.png","./img/guoqi/8.png","./img/guoqi/5.png",
+                 "./img/guoqi/4.png","./img/guoqi/6.png"],
+             "text":["【美不胜收】Giorgio Armani 乔治·阿玛尼 小胖丁",
+                   "英国 DUNOON 丹侬 骨瓷水杯 Nevis型 0.48L 咖啡 / ",
+                   "【抗击雾霾 刻不容缓】MEO 最具创新性防雾霾口罩  ",
+                   "【去皮测量更精准】TANITA 百利达 烹饪用厨房",
+                   "【让血管深呼吸】Nature’s Bounty 自然之宝 三"],
+             "text1":[" "," "," "," "," "],      
+             "price":["￥1,599.00","￥68.00","￥116.99","￥312.00","￥394.90"]
+          }
+
+    },
+    "newest":{
+          "new1":{
+             "url":["./img/new2/1.jpg","./img/new2/2.jpg","./img/new2/3.jpg"],
+             "addr":["./img/guoqi/15.jpg","./img/guoqi/4.png","./img/guoqi/4.png"],
+             "text":["【时尚璀璨】Omega 欧米茄 星座系列 石英腕表/",
+                   "税费补贴【蚝式恒动 腕间典范】ROLEX 劳力士 潜",
+                   "税费补贴【诠释品质 经典传承】ROLEX 劳力士 潜"],
+             "text1":["现价￥20,999（需用券）","现价￥59,599（需用券）","现价￥69,999（需用券）"],      
+             "price":["￥24,999.00","￥69,599.00","￥79,999.00"]
+
+          },
+          "new2":{
+             "url":["./img/new2/4.jpg","./img/new2/5.jpg","./img/new2/6.jpg"],
+             "addr":["./img/guoqi/2.png","./img/guoqi/8.png","./img/guoqi/5.png"],
+             "text":["这妖娆的站姿】Nambe 倾斜酒杯 2个装 ",
+                   "【新鲜啤酒随心享】PicoBrew 家用自动精酿啤酒",
+                   "【脉冲萃取技术】Jura 优瑞 全自动咖啡机 Z6 多色"],
+             "text1":["现价￥269.99（需用券） "," ","现价￥23,999（需用券）"],      
+             "price":["￥1,599.00","￥312.00","￥394.90"]
+          }
+
+    },
+    "stairs":{
+          "stairs1":{
+               "url":["./img/stairs/1.jpg","./img/stairs/2.jpg","./img/stairs/3.jpg",
+                   "./img/stairs/4.jpg","./img/stairs/5.jpg","./img/stairs/6.jpg"],
+               "addr":["./img/guoqi/6.png","./img/guoqi/6.png","./img/guoqi/6.png",
+                   "./img/guoqi/6.png","./img/guoqi/6.png","./img/guoqi/1.png"],
+               "text":["Timberland 添柏岚 Cloudy Passcase 男士折叠零钱包/钱包 ",
+                     "【夏天到了，让CK保卫你最后一道防线】Calvin Klein/CK 凯文克莱 男士纯棉三角内裤 3条装 多色可选",
+                     "【时尚V领T恤】Superdry 极度干燥 Orange Label系列 男士Vintage刺绣V领T恤 M10012OODS flint grey grit 多",
+                     "Tumi 塔米/途明 ALPHA 2 系列 T-Pass 商务双肩包/电脑包 96578D2",
+                     "Michael Kors/MK 迈克高仕 MERCER系列 时尚女士手拿钱包 ",
+                     "【包邮】Swarovski 施华洛世奇 经典天鹅水晶吊坠项链 5007735"],
+                "text1":["添柏岚两件包邮","","现价￥75（需用券）","现价￥3,179（需用券）","现价￥399（需用券）",""],
+                "price":["￥99.00","￥131.63","￥125.00","￥3279.00","￥499.00","￥629.00"]            
+          
+          
+          }
+    
+    
+    },
+    "like":{
+        "url":["./img/like/2.jpg","./img/like/3.jpg","./img/like/4.jpg",
+           "./img/like/5.jpg","./img/like/6.jpg","./img/like/7.jpg",
+           "./img/like/8.jpg","./img/like/9.jpg","./img/like/10.jpg",
+           "./img/like/11.jpg"],
+        "addr":["./img/guoqi/6.png","./img/guoqi/6.png","./img/guoqi/6.png",
+               "./img/guoqi/8.png","./img/guoqi/6.png","./img/guoqi/6.png",
+               "./img/guoqi/5.png","./img/guoqi/6.png","./img/guoqi/6.png",
+               "./img/guoqi/4.png"],
+        "text":["【包邮】Superdry 极度干燥 Roadwork 时尚双肩包/背包 M91006CO 双色可选",
+               "【包邮】Aveeno 艾维诺 婴儿 天然燕麦洗发沐浴露 532ml",
+               "Tumi 塔米/途明 ALPHA 2 系列 T-Pass 商务双肩包/电",
+               "【2瓶包邮价】Waitrose 婴儿洗发水 250ml*2瓶",
+               "Samsonite 新秀丽 Tectonic2 中型双肩包 黑色 62364-1041",
+               "Timberland 添柏岚 Classic 经典男士休闲双肩包/",
+               "Goat 宝宝纯天然山羊奶手工皂 100g",
+               "【包邮】Burt's Bees 小蜜蜂 宝宝天然有香洗发沐浴露 235ml",
+               "【包邮】Burt's Bees 小蜜蜂 宝宝天然有香洗发沐浴露 ",
+               "【国内现货包邮】日本Pigeon/贝亲洗护二合一 500ml 用品新生儿洗护洗发水沐浴露二合一"],
+        "text1":["","","现价￥3,179（需用券）","","","添柏岚两件包邮","","","",""],
+        "price":["￥339.00","￥114.94","￥3,279.00","￥82.00","￥354.00",
+               "￥208.00","￥14.00","￥84.18","￥100.59","￥80.00"]                 
+    
+    }
+
+    
+
+
+
+
+
+ 
+    
+}
+
+ 
+
+
